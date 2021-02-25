@@ -95,5 +95,3 @@ document.getElementById('form-id').addEventListener('submit',
     e.preventDefault()
     
 })
-
-
