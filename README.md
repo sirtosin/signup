@@ -1,1 +1,1 @@
-A Sign up login page that displays your name when you sign up& login [Live Preview] (https://signuplog.netlify.app)
+A Sign up login page that displays your name when you sign up& login [Live Preview](https://signuplog.netlify.app)
